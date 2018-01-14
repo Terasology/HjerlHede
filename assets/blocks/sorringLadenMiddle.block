@@ -1,0 +1,8 @@
+{
+    "displayName": "Sorring Laden Middle",
+    "rotation": "none",
+    "shape": "engine:cube",
+    "tiles": {
+        "all": "hjerlhede:sorringladenmiddle"
+    }
+}

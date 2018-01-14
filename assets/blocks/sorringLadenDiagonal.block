@@ -1,0 +1,8 @@
+{
+    "displayName": "Sorring Laden Diagonal",
+    "rotation": "none",
+    "shape": "engine:cube",
+    "tiles": {
+        "all": "hjerlhede:sorringladendiagonal"
+    }
+}

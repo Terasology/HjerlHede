@@ -3,8 +3,8 @@
     },
     "SpawnBlockRegions": {
         "regionsToFill": [
-            { "blockType": "Core:DoorBottom.LEFT", "region": { "min": [1, 1, -5], "size": [1, 1, 2]}},
-            { "blockType": "Core:DoorTop.LEFT", "region": { "min": [1, 2, -5], "size": [1, 1, 2]}},
+            { "blockType": "Core:DoorBottom.RIGHT", "region": { "min": [1, 1, -5], "size": [1, 1, 2]}},
+            { "blockType": "Core:DoorTop.RIGHT", "region": { "min": [1, 2, -5], "size": [1, 1, 2]}},
             { "blockType": "Core:glass", "region": { "min": [3, 5, -8], "size": [2, 1, 1]}},
             { "blockType": "Core:glass", "region": { "min": [1, 2, -7], "size": [1, 2, 1]}},
             { "blockType": "Core:glass", "region": { "min": [1, 2, -2], "size": [1, 2, 2]}},
