@@ -1,0 +1,11 @@
+{
+    "displayName": "Wooden Stair",
+    "rotation": "horizontal",
+    "shape": "engine:stair",
+    "tiles": {
+        "all":"core:plank"
+    },
+    "entity": {
+        "prefab": "HjerlHede:woodenStair"
+    }
+}
