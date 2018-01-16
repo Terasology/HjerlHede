@@ -1,0 +1,12 @@
+{
+  "translucent": true,
+  "shadowCasting": false,
+  "hardness": 1,
+  "mass": 15,
+  "tiles": {
+    "all": "mjesinghuset_basic",
+    "front": "mjesinghuset_window_right",
+    "back": "mjesinghuset_window_left"
+  },
+  "rotation": "horizontal"
+}

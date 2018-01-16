@@ -1,0 +1,9 @@
+{
+  "basedOn": "Core:wood",
+  "tiles": {
+    "all": "mjesinghuset_basic",
+    "front": "mjesinghuset_vertical_right",
+    "back": "mjesinghuset_vertical_left"
+  },
+  "rotation": "horizontal"
+}

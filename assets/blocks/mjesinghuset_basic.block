@@ -1,0 +1,6 @@
+{
+  "parent": "Core:wood",
+  "tiles": {
+    "all": "mjesinghuset_basic"
+  }
+}

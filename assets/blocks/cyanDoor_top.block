@@ -1,0 +1,4 @@
+{
+  "parent": "Core:DoorTop",
+  "shape": "Core:door"
+}
