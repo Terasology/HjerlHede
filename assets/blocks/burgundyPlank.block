@@ -1,0 +1,6 @@
+{
+  "basedOn": "Core:Plank",
+  "tiles": {
+    "all": "burgundyPlank"
+  }
+}

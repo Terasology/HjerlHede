@@ -1,0 +1,32 @@
+{
+  "parent": "engine:iconItem",
+  "DisplayName": {
+    "name": "Bar Door"
+  },
+  "Item": {
+    "icon": "engine:items#door",
+    "stackId": "bardoor",
+    "consumedOnUse": true,
+    "usage": "ON_BLOCK"
+  },
+  "Door": {
+    "topBlockFamily": "barDoor_top",
+    "bottomBlockFamily": "barDoor_bottom",
+    "openSound": "Core:DoorOpen",
+    "closeSound": "Core:DoorClose",
+    "doorRegionPrefab": "barDoorRegion"
+  },
+  "Health": {
+    "currentHealth": 5,
+    "maxHealth": 5,
+    "regenRate": 1,
+    "waitBeforeRegen": 2,
+    "destroyEntityOnNoHealth": true
+  },
+  "BlockDropGrammar": {
+    "itemDrops": ["barDoor"]
+  },
+  "ActAsBlock": {
+    "block": "barDoor_top"
+  }
+}
