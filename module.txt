@@ -1,7 +1,7 @@
 {
     "id": "HjerlHede",
     "version": "0.1.0-SNAPSHOT",
-    "author": "Tearsology Community",
+    "author": "Terasology Community",
     "displayName": "HjerlHede",
     "description": "A build (structure) module for the Hjerl Hede outdoor museum in Denmark",
     "dependencies": [
