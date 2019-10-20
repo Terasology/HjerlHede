@@ -1,6 +1,6 @@
 {
     "displayName": "Sorring Laden Block Roof",
-    "rotation": "none",
+    "family": "none",
     "shape": "engine:cube",
     "tiles": {
         "all": "hjerlhede:sorringladenroof"
