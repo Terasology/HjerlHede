@@ -1,0 +1,9 @@
+{
+    "displayName": "Brown Wood Roof",
+    "family": "horizontal",
+    "shape": "engine:slope",
+    "tiles": {
+        "center": "HjerlHede:greyroof",
+        "sides": "HjerlHede:brownwood"
+    }
+}

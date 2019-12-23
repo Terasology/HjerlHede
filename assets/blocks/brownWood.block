@@ -1,0 +1,8 @@
+{
+    "displayName": "Brown Wood",
+    "family": "none",
+    "shape": "engine:cube",
+    "tiles": {
+        "all": "hjerlhede:brownwood"
+    }
+}
