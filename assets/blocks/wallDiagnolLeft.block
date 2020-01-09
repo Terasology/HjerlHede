@@ -1,0 +1,7 @@
+{
+    "displayName": "Wall Diagnol Left",
+    "tiles": {
+        "front": "HjerlHede:diagnolLeft",
+        "sides": "HjerlHede:wall"
+    }
+}
