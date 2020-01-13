@@ -1,0 +1,6 @@
+{
+    "basedOn": "CoreAssets:rock",
+    "displayName": "Chimney Middle",
+    "tile": "HjerlHede:whitewall",
+    "shape":"StructuralResources:pillar"
+}

@@ -1,0 +1,5 @@
+{
+    "displayName": "Chimney Base",
+    "shape":"StructuralResources:ObeliskPillarBase",
+    "tile": "HjerlHede:whitewall"
+}
