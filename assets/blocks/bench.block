@@ -1,0 +1,6 @@
+{
+    "basedOn": "CoreAssets:rock",
+    "displayName": "Bench",
+    "tile": "CoreAssets:Stone",
+    "shape":"StructuralResources:pillar"
+}
