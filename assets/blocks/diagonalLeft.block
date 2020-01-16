@@ -1,0 +1,6 @@
+{
+    "displayName": "Wall Diagonal Left",
+    "tiles":{
+             "all":"StructuralResources:TimberFrameDiagonalLeft"
+    }
+}
