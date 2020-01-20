@@ -1,0 +1,8 @@
+{
+    "displayName": "Brown Roof",
+    "family": "horizontal",
+    "shape": "engine:slope",
+    "tiles": {
+        "all": "hjerlhede:brownroof"
+    }
+}
