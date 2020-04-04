@@ -12,8 +12,8 @@
   "Door": {
     "topBlockFamily": "barDoor_top",
     "bottomBlockFamily": "barDoor_bottom",
-    "openSound": "Core:DoorOpen",
-    "closeSound": "Core:DoorClose",
+    "openSound": "CoreAssets:DoorOpen",
+    "closeSound": "CoreAssets:DoorClose",
     "doorRegionPrefab": "barDoorRegion"
   },
   "Health": {

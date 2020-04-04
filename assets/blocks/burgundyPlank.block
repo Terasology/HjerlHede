@@ -1,6 +1,7 @@
 {
-  "basedOn": "Core:Plank",
+  "basedOn": "CoreBlocks:Plank",
   "tiles": {
     "all": "burgundyPlank"
-  }
+  },
+  "title": "Plank (burgundy)"
 }

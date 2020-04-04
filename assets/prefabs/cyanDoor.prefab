@@ -12,8 +12,8 @@
   "Door": {
     "topBlockFamily": "cyanDoor_top",
     "bottomBlockFamily": "cyanDoor_bottom",
-    "openSound": "Core:DoorOpen",
-    "closeSound": "Core:DoorClose",
+    "openSound": "CoreAssets:DoorOpen",
+    "closeSound": "CoreAssets:DoorClose",
     "doorRegionPrefab": "cyanDoorRegion"
   },
   "Health": {

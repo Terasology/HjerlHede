@@ -1,6 +1,6 @@
 {
-  "parent": "Core:DoorTop",
-  "shape": "Core:door",
+  "parent": "CoreAssets:DoorTop",
+  "shape": "CoreAssets:door",
   "translucent": true,
   "shadowCasting": false
 }

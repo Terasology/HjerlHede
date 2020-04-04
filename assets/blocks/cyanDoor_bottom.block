@@ -1,4 +1,4 @@
 {
-  "parent": "Core:DoorBottom",
-  "shape": "Core:door"
+  "parent": "CoreAssets:DoorBottom",
+  "shape": "CoreAssets:door"
 }
