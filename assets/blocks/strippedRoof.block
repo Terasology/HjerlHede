@@ -1,0 +1,7 @@
+{
+    "displayName": "Stripped Roof",
+    "tiles": {
+        "center": "HjerlHede:blackRoof",
+        "sides": "HjerlHede:whitewall"
+    }
+}
