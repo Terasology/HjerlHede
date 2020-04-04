@@ -1,6 +1,6 @@
 {
     "basedOn": "CoreAssets:rock",
     "displayName": "Chimney Top",
-    "tile": "HjerlHede:whitewall",
+    "tile": "HjerlHede:greyBrick",
     "shape":"StructuralResources:pillarTop"
 }

@@ -87,7 +87,7 @@
       { "blockType": "HjerlHede:framedWindow", "region": { "min": [0, 2, 7], "size": [1, 1, 1]}},
       { "blockType": "HjerlHede:framedWindow", "region": { "min": [2, 2, 7], "size": [1, 1, 1]}},
       { "blockType": "HjerlHede:framedWindow", "region": { "min": [4, 2, 7], "size": [1, 1, 1]}},
-      { "blockType": "HjerlHede:greyWall", "region": { "min": [4, 5, 5], "size": [1, 2, 1]}},
+      { "blockType": "HjerlHede:greyBrick", "region": { "min": [4, 5, 5], "size": [1, 2, 1]}},
       { "blockType": "HjerlHede:oldWoodenRoof.BACK", "region": { "min": [-2, 5, 5], "size": [6, 1, 1]}},
       { "blockType": "HjerlHede:oldWoodenRoof.BACK", "region": { "min": [5, 5, 5], "size": [1, 1, 1]}},
       { "blockType": "HjerlHede:oldWoodenRoof.BACK", "region": { "min": [-2, 4, 6], "size": [8, 1, 1]}},

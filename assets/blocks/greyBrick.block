@@ -1,0 +1,8 @@
+{
+    "displayName": "Grey Brick",
+    "shape": "engine:cube",
+    "basedOn": "CoreAssets:Brick",
+    "tiles": {
+        "all": "hjerlhede:greyBrick"
+    }
+}
