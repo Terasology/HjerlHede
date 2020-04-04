@@ -66,5 +66,7 @@
             { "blockType": "CoreBlocks:torch.LEFT", "region": { "min": [6, 3, 13], "size": [1, 2, 1]}},
             { "blockType": "CoreBlocks:torch.LEFT", "region": { "min": [6, 3, 21], "size": [1, 2, 1]}}
         ]
+    },
+    "NoConstructionAnimation": {
     }
 }

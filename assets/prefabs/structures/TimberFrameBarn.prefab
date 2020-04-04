@@ -301,5 +301,7 @@
         "region": { "min": [-5, 2, -9], "size": [1, 1, 1] }
       }
     ]
+  },
+  "NoConstructionAnimation": {
   }
 }

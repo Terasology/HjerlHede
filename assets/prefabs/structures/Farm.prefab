@@ -93,5 +93,7 @@
             { "blockType": "CoreBlocks:Plank", "region": { "min": [0, 1, 14], "size": [4, 1, 4]}},
             { "blockType": "CoreBlocks:Plank", "region": { "min": [0, 1, 18], "size": [4, 2, 1]}}
         ]
+    },
+    "NoConstructionAnimation": {
     }
 }

@@ -78,5 +78,7 @@
             { "blockType": "CoreBlocks:Torch.LEFT", "region": { "min": [-2, 2, -9], "size": [1, 1, 1]}},
             { "blockType": "CoreBlocks:Torch.RIGHT", "region": { "min": [-5, 2, -9], "size": [1, 1, 1]}}
         ]
+    },
+    "NoConstructionAnimation": {
     }
 }

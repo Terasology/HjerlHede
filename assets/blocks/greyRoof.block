@@ -4,6 +4,6 @@
     "shape": "engine:slope",
     "tiles": {
         "front": "HjerlHede:greyroof",
-        "sides": "CoreAssets:brick"
+        "sides": "CoreBlocks:Brick"
     }
 }

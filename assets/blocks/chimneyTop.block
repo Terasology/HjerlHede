@@ -1,5 +1,5 @@
 {
-    "basedOn": "CoreAssets:brick",
+    "basedOn": "CoreBlocks:Brick",
     "displayName": "Chimney (top)",
     "tile": "HjerlHede:greyBrick",
     "shape":"StructuralResources:pillarTop"

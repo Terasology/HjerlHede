@@ -1,5 +1,5 @@
 {
-    "basedOn": "CoreAssets:brick",
+    "basedOn": "CoreBlocks:Brick",
     "displayName": "Chimney (base)",
     "shape":"StructuralResources:ObeliskPillarBase",
     "tile": "HjerlHede:greyBrick"
