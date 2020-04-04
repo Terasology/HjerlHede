@@ -1,0 +1,4 @@
+{
+  "parent": "CoreAssets:DoorBottom",
+  "shape": "CoreAssets:door"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "CoreAssets:wood",
+  "tiles": {
+    "all": "HjerlHede:TimberFramePlain_red"
+  },
+  "title": "Timber Frame (red)"
+}

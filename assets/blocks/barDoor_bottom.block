@@ -1,0 +1,6 @@
+{
+  "parent": "CoreAssets:DoorBottom",
+  "shape": "CoreAssets:door",
+  "translucent": true,
+  "shadowCasting": false
+}
