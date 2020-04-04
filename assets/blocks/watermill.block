@@ -1,0 +1,10 @@
+{
+    "displayName": "Mill",
+    "family": "none",
+    "shape": "HjerlHede:mill",
+    "tiles": {
+        "center": "CoreAssets:Plank",
+        "back": "CoreAssets:Plank",
+        "right": "CoreAssets:Stone"
+    }
+}

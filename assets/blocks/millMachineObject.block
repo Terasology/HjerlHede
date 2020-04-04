@@ -1,0 +1,8 @@
+{
+    "displayName": "Mill Machine",
+    "family": "none",
+    "shape": "HjerlHede:millMachine",
+    "tiles": {
+        "center": "CoreAssets:Plank"
+    }
+}
