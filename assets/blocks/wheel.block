@@ -1,7 +1,7 @@
 {
     "displayName": "Wheel",
     "family": "none",
-    "shape": "HjerlHede:wheel",
+    "shape": "hjerlhede:wheel",
     "tiles": {
         "all": "hjerlhede:wheelbrown"
     }
