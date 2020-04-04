@@ -1,0 +1,7 @@
+{
+    "displayName": "Roof",
+    "tiles": {
+        "center": "HjerlHede:roof",
+        "sides": "HjerlHede:redWood"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "displayName": "Algae Roof With Black Wood",
+    "tiles": {
+        "center": "HjerlHede:algaeRoof",
+        "sides": "blackWoodenRoof"
+    }
+}

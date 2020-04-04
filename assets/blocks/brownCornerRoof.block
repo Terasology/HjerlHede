@@ -1,0 +1,8 @@
+{
+    "displayName": "Brown Corner Roof",
+    "family": "horizontal",
+    "shape": "engine:slopecorner",
+    "tiles": {
+        "all": "hjerlhede:brownroof"
+    }
+}
