@@ -1,6 +1,6 @@
 {
-    "basedOn": "CoreAssets:rock",
-    "displayName": "Chimney Middle",
+    "basedOn": "CoreAssets:brick",
+    "displayName": "Chimney (middle)",
     "tile": "HjerlHede:greyBrick",
     "shape":"StructuralResources:pillar"
 }
