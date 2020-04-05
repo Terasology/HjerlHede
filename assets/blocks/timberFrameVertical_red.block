@@ -4,5 +4,5 @@
     "all": "timberFramePlain_red",
     "sides": "timberFrameVertical_red"
   },
-  "title": "Timber Frame (vertical, red)"
+  "displayName": "Timber Frame (vertical, red)"
 }

@@ -3,5 +3,5 @@
   "tiles": {
     "all": "HjerlHede:timberFramePlain_red"
   },
-  "title": "Timber Frame (red)"
+  "displayName": "Timber Frame (red)"
 }
