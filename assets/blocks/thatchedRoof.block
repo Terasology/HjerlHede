@@ -1,6 +1,5 @@
 {
   "displayName": "Thatched Roof",
-  "rotation": "horizontal",
   "tiles": {
     "all": "HjerlHede:Thatch",
     "sides": "HjerlHede:BurgundyPlank",
