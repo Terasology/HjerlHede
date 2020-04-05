@@ -3,6 +3,6 @@
     "family": "none",
     "shape": "HjerlHede:millMachine",
     "tiles": {
-        "center": "CoreBlocks:"
+        "center": "CoreBlocks:Plank"
     }
 }

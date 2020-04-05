@@ -1,6 +1,5 @@
 {
     "displayName": "Grey Brick",
-    "shape": "engine:cube",
     "basedOn": "CoreBlocks:Brick",
     "tiles": {
         "all": "hjerlhede:greyBrick"

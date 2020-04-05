@@ -3,8 +3,8 @@
     "family": "none",
     "shape": "HjerlHede:mill",
     "tiles": {
-        "center": "CoreBlocks:",
-        "back": "CoreBlocks:",
+        "center": "CoreBlocks:Stone",
+        "back": "CoreBlocks:Stone",
         "right": "CoreAssets:Stone"
     }
 }

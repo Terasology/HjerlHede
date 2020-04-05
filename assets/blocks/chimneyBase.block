@@ -1,7 +1,7 @@
 {
     "basedOn": "CoreBlocks:Brick",
     "displayName": "Chimney (base)",
-    "shape":"StructuralResources:ObeliskPillarBase",
-    "tile": "HjerlHede:greyBrick"
+    "shape":"StructuralResources:PillarBase",
+    "tile": "HjerlHede:GreyBrick"
 }
 
