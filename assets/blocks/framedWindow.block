@@ -3,5 +3,6 @@
   "shadowCasting": false,
   "hardness": 1,
   "mass": 15,
-  "tile": "Framed Window"
+  "displayName": "Framed Window",
+  "tile": "HjerlHede:framedWindow"
 }

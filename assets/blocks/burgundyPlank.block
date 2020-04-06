@@ -3,5 +3,5 @@
   "tiles": {
     "all": "burgundyPlank"
   },
-  "title": "Plank (burgundy)"
+  "displayName": "Plank (burgundy)"
 }
