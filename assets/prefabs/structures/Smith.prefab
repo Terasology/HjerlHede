@@ -1,6 +1,8 @@
 {
     "StructureTemplate": {
     },
+    "NoConstructionAnimation": {
+    },
     "SpawnBlockRegions": {
         "regionsToFill": [
             { "blockType": "CoreBlocks:Glass", "region": { "min": [4, 2, 4], "size": [1, 1, 1]}},
@@ -248,7 +250,5 @@
             { "blockType": "engine:air", "region": { "min": [4, 2, 11], "size": [4, 1, 1]}},
             { "blockType": "engine:air", "region": { "min": [-4, 1, 12], "size": [12, 9, 1]}}
         ]
-    },
-    "NoConstructionAnimation": {
     }
 }

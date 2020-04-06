@@ -1,8 +1,5 @@
 {
-  "translucent": true,
-  "shadowCasting": false,
-  "hardness": 1,
-  "mass": 15,
+  "basedOn": "CoreBlocks:Glass",
   "displayName": "Framed Window",
   "tile": "HjerlHede:framedWindow"
 }

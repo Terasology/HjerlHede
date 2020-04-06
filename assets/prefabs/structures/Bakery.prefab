@@ -293,7 +293,5 @@
             { "blockType": "engine:air", "region": { "min": [9, 3, 11], "size": [5, 1, 1]}},
             { "blockType": "engine:air", "region": { "min": [-6, 1, 12], "size": [20, 7, 1]}}
         ]
-    },
-    "NoConstructionAnimation": {
     }
 }
