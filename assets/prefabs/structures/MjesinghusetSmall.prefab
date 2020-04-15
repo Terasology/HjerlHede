@@ -96,7 +96,7 @@
       { "blockType": "HjerlHede:glass-framed-cyan", "region": { "min": [0, 2, 8], "size": [1, 1, 1]}},
       { "blockType": "HjerlHede:glass-framed-cyan", "region": { "min": [2, 2, 8], "size": [1, 1, 1]}},
       { "blockType": "HjerlHede:glass-framed-cyan", "region": { "min": [4, 2, 8], "size": [1, 1, 1]}},
-      { "blockType": "HjerlHede:greyBrick", "region": { "min": [4, 5, 6], "size": [1, 2, 1]}},
+      { "blockType": "HjerlHede:brick-grey", "region": { "min": [4, 5, 6], "size": [1, 2, 1]}},
       { "blockType": "HjerlHede:roof_thatch_plank-vertical-burgundy:engine:slope.BACK", "region": { "min": [-2, 5, 6], "size": [6, 1, 1]}},
       { "blockType": "HjerlHede:roof_thatch_plank-vertical-burgundy:engine:slope.BACK", "region": { "min": [5, 5, 6], "size": [1, 1, 1]}},
       { "blockType": "HjerlHede:roof_thatch_plank-vertical-burgundy:engine:slope.BACK", "region": { "min": [-2, 4, 7], "size": [8, 1, 1]}},

@@ -1,7 +1,0 @@
-{
-    "displayName": "Grey Brick",
-    "basedOn": "CoreBlocks:Brick",
-    "tiles": {
-        "all": "hjerlhede:greyBrick"
-    }
-}

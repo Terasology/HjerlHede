@@ -1,7 +1,0 @@
-{
-    "basedOn": "CoreBlocks:Brick",
-    "displayName": "Chimney (base)",
-    "shape":"StructuralResources:PillarBase",
-    "tile": "HjerlHede:GreyBrick"
-}
-
