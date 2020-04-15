@@ -1,5 +1,5 @@
 {
   "basedOn": "CoreBlocks:Glass",
   "displayName": "Framed Window (red)",
-  "tile": "HjerlHede:framedWindowRed"
+  "tile": "HjerlHede:glass-framed-red"
 }
