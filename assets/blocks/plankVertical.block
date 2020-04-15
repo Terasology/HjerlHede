@@ -1,0 +1,5 @@
+{
+  "basedOn": "CoreBlocks:Plank",
+  "tile": "HjerlHede:plankVertical",
+  "displayName": "Vertical Plank"
+}
