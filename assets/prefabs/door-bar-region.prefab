@@ -1,10 +1,10 @@
 {
   "DisplayName": {
-    "name": "Cyan Door"
+    "name": "Bar Door"
   },
   "Door": {
-    "topBlockFamily": "cyanDoor_top",
-    "bottomBlockFamily": "cyanDoor_bottom",
+    "topBlockFamily": "HjerlHede:door-bar-top",
+    "bottomBlockFamily": "HjerlHede:door-bar-bottom",
     "openSound": "CoreAssets:DoorOpen",
     "closeSound": "CoreAssets:DoorClose"
   },
@@ -17,11 +17,11 @@
   },
   "BlockDropGrammar": {
     "itemDrops": [
-      "cyanDoor"
+      "HjerlHede:door-bar"
     ]
   },
   "ActAsBlock": {
-    "block": "cyanDoor_top"
+    "block": "HjerlHede:door-bar-top"
   },
   "Network": {}
 }

@@ -1,20 +1,20 @@
 {
   "parent": "engine:iconItem",
   "DisplayName": {
-    "name": "Bar Door"
+    "name": "Cyan Door"
   },
   "Item": {
     "icon": "engine:items#door",
-    "stackId": "bardoor",
+    "stackId": "door-cyan",
     "consumedOnUse": true,
     "usage": "ON_BLOCK"
   },
   "Door": {
-    "topBlockFamily": "barDoor_top",
-    "bottomBlockFamily": "barDoor_bottom",
+    "topBlockFamily": "HjerlHede:door-cyan-top",
+    "bottomBlockFamily": "HjerlHede:door-cyan-bottom",
     "openSound": "CoreAssets:DoorOpen",
     "closeSound": "CoreAssets:DoorClose",
-    "doorRegionPrefab": "barDoorRegion"
+    "doorRegionPrefab": "HjerlHede:door-cyan-region"
   },
   "Health": {
     "currentHealth": 5,
@@ -24,9 +24,9 @@
     "destroyEntityOnNoHealth": true
   },
   "BlockDropGrammar": {
-    "itemDrops": ["barDoor"]
+    "itemDrops": ["HjerlHede:door-cyan"]
   },
   "ActAsBlock": {
-    "block": "barDoor_top"
+    "block": "HjerlHede:door-cyan-top"
   }
 }
