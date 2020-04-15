@@ -1,8 +1,0 @@
-{
-    "shape": "CoreAssets:door",
-    "family": "horizontal",
-    "translucent": true,
-    "attachmentAllowed": false,
-    "mass": 40,
-    "tile": "HjerlHede:redWood"
-}

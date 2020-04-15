@@ -1,8 +1,0 @@
-{
-    "displayName": "Brown Roof With Grass",
-    "basedOn": "CoreAssets:rock",
-    "tiles":{
-              "center":"HjerlHede:brownRoofWithGrass",
-              "sides":"HjerlHede:blackWood"
-    }
-}

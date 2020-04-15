@@ -1,9 +1,0 @@
-{
-    "displayName": "Black Roof",
-    "family": "horizontal",
-    "shape": "engine:slope",
-    "tiles": {
-        "front": "HjerlHede:blackroof",
-        "sides": "CoreBlocks:Brick"
-    }
-}

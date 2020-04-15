@@ -1,8 +1,0 @@
-{
-    "displayName": "Sorring Laden Corner Roof",
-    "family": "horizontal",
-    "shape": "engine:slopecorner",
-    "tiles": {
-        "all": "hjerlhede:sorringladenroof"
-    }
-}
