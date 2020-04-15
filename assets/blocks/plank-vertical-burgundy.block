@@ -1,7 +1,7 @@
 {
   "basedOn": "CoreBlocks:Plank",
   "tiles": {
-    "all": "burgundyPlank"
+    "all": "plank-vertical-burgundy"
   },
   "displayName": "Plank (burgundy)"
 }

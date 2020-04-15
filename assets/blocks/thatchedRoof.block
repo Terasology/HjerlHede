@@ -2,7 +2,7 @@
   "displayName": "Thatched Roof",
   "tiles": {
     "all": "HjerlHede:Thatch",
-    "sides": "HjerlHede:BurgundyPlank",
-    "bottom": "HjerlHede:BurgundyPlank"
+    "sides": "HjerlHede:plank-vertical-burgundy",
+    "bottom": "HjerlHede:plank-vertical-burgundy"
   }
 }

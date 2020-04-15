@@ -1,7 +1,7 @@
 {
   "basedOn": "CoreBlocks:Plank",
   "tiles": {
-    "all": "HjerlHede:darkPlank"
+    "all": "HjerlHede:plank-vertical-dark"
   },
   "displayName": "Plank (dark)"
 }
