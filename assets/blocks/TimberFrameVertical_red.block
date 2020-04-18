@@ -1,8 +1,0 @@
-{
-  "basedOn": "CoreAssets:wood",
-  "tiles": {
-    "all": "TimberFramePlain_red",
-    "sides": "TimberFrameVertical_red"
-  },
-  "title": "Timber Frame (vertical, red)"
-}

@@ -1,0 +1,32 @@
+{
+  "parent": "engine:iconItem",
+  "DisplayName": {
+    "name": "Bar Door"
+  },
+  "Item": {
+    "icon": "engine:items#door",
+    "stackId": "HjerlHede:door-bar",
+    "consumedOnUse": true,
+    "usage": "ON_BLOCK"
+  },
+  "Door": {
+    "topBlockFamily": "HjerlHede:door-bar-top",
+    "bottomBlockFamily": "HjerlHede:door-bar-bottom",
+    "openSound": "CoreAssets:DoorOpen",
+    "closeSound": "CoreAssets:DoorClose",
+    "doorRegionPrefab": "HjerlHede:door-bar-region"
+  },
+  "Health": {
+    "currentHealth": 5,
+    "maxHealth": 5,
+    "regenRate": 1,
+    "waitBeforeRegen": 2,
+    "destroyEntityOnNoHealth": true
+  },
+  "BlockDropGrammar": {
+    "itemDrops": ["HjerlHede:door-bar"]
+  },
+  "ActAsBlock": {
+    "block": "HjerlHede:door-bar-top"
+  }
+}

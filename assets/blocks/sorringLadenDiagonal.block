@@ -1,8 +1,0 @@
-{
-    "displayName": "Sorring Laden Diagonal",
-    "family": "none",
-    "shape": "engine:cube",
-    "tiles": {
-        "all": "hjerlhede:sorringladendiagonal"
-    }
-}

@@ -1,9 +1,0 @@
-{
-    "displayName": "Grey Roof",
-    "family": "horizontal",
-    "shape": "engine:slope",
-    "tiles": {
-        "front": "HjerlHede:greyroof",
-        "sides": "CoreAssets:brick"
-    }
-}
