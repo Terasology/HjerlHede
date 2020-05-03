@@ -9,7 +9,8 @@
         {"id": "CoreBlocks", "minVersion": "1.0.0"},
         {"id": "Fences", "minVersion": "0.1.1"},
         {"id": "StructureTemplates", "minVersion": "0.3.0"},
-        {"id": "StructuralResources", "minVersion": "2.0.0"}
+        {"id": "StructuralResources", "minVersion": "2.0.0"},
+        {"id": "CoreItems", "minVersion": "1.0.0"}
     ],
     "serverSideOnly": false
 }
