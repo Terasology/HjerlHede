@@ -1,5 +1,5 @@
 {
-  "basedOn": "CoreBlocks:Plank",
+  "basedOn": "CoreAssets:Plank",
   "tiles": {
     "all": "plank-vertical-burgundy"
   },

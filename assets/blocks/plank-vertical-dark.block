@@ -1,5 +1,5 @@
 {
-  "basedOn": "CoreBlocks:Plank",
+  "basedOn": "CoreAssets:Plank",
   "tiles": {
     "all": "HjerlHede:plank-vertical-dark"
   },
