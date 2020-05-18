@@ -1,6 +1,6 @@
 {
     "displayName": "Grey Bricks",
-    "basedOn": "CoreBlocks:Brick",
+    "basedOn": "CoreAssets:Brick",
     "tiles": {
         "all": "hjerlhede:brick-grey"
     }

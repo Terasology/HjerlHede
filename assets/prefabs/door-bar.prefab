@@ -23,7 +23,7 @@
     "waitBeforeRegen": 2,
     "destroyEntityOnNoHealth": true
   },
-  "BlockDropGrammar": {
+  "DropGrammar": {
     "itemDrops": ["HjerlHede:door-bar"]
   },
   "ActAsBlock": {
