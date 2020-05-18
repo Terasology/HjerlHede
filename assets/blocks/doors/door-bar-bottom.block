@@ -1,5 +1,5 @@
 {
-  "parent": "CoreAssets:DoorBottom",
+  "parent": "CoreAdvancedAssets:DoorBottom",
   "shape": "CoreAssets:door",
   "translucent": true,
   "shadowCasting": false
