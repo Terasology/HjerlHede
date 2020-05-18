@@ -65,7 +65,7 @@
             { "blockType": "CoreAssets:CobbleStone", "region": { "min": [5, 0, 12], "size": [2, 1, 1]}},
             { "blockType": "CoreAssets:CobbleStone", "region": { "min": [8, 0, 12], "size": [1, 1, 1]}},
             { "blockType": "CoreAssets:CobbleStone", "region": { "min": [10, 0, 12], "size": [2, 1, 1]}},
-            { "blockType": "CoreAssets:DoorBottom.BACK", "region": { "min": [-4, 1, 5], "size": [1, 1, 1]}},
+            { "blockType": "CoreAdvancedAssets:DoorBottom.BACK", "region": { "min": [-4, 1, 5], "size": [1, 1, 1]}},
             { "blockType": "CoreAdvancedAssets:DoorBottom.BACK", "region": { "min": [0, 1, 5], "size": [1, 1, 1]}},
             { "blockType": "CoreAdvancedAssets:DoorBottom.FRONT", "region": { "min": [2, 1, 7], "size": [1, 1, 1]}},
             { "blockType": "CoreAdvancedAssets:DoorBottom.RIGHT", "region": { "min": [7, 1, 5], "size": [1, 1, 1]}},
