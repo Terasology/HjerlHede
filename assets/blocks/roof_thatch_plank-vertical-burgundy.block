@@ -1,8 +1,0 @@
-{
-  "displayName": "Thatched Roof (burgundy planks)",
-  "tiles": {
-    "all": "HjerlHede:Thatch",
-    "sides": "HjerlHede:plank-vertical-burgundy",
-    "bottom": "HjerlHede:plank-vertical-burgundy"
-  }
-}
