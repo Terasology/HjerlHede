@@ -3,11 +3,12 @@
     "version": "1.0.0",
     "author": "Terasology Community",
     "displayName": "HjerlHede",
-    "description": "A build (structure) module for the Hjerl Hede outdoor museum in Denmark",
+    "description": "Provides a culture definition for a system like DynamicCities with buildings from the Hjerl Hede outdoor museum in Denmark",
     "dependencies": [
         { "id": "CoreAdvancedAssets", "minVersion": "1.1.0" },
         { "id": "CoreAssets", "minVersion": "2.0.1" },
         { "id": "Drops", "minVersion": "1.0.1" },
+        { "id": "DynamicCities", "minVersion": "1.0.0", "optional": true },
         { "id": "Fences", "minVersion": "1.0.0" },
         { "id": "StructureTemplates", "minVersion": "1.0.0" },
         { "id": "StructuralResources", "minVersion": "2.1.0" }
