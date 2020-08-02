@@ -1,0 +1,19 @@
+{
+    "GenericBuilding" : {
+     "name" : "CooperHouse",
+     "templateNames" : ["HjerlHede:CooperHouseTemplate"],
+     "zone" : "COMMERCIAL",
+     "minSize" : [10, 13],
+     "maxSize" : [10, 13],
+     "isEntity" : true
+    },
+    "PotentialHome": {
+        "maxCitizens": 1
+    },
+    "MarketSubscriber" : {
+     "production" : {"StructuralResources:Barrel" : 2},
+     "productionInterval" : 500,
+     "consumption" : {"CoreAssets:Plank" : 16},
+     "consumptionInterval" : 100
+    }
+}

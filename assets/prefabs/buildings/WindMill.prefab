@@ -1,0 +1,13 @@
+{
+    "GenericBuilding" : {
+       "name" : "WindMill",
+       "templateNames" : ["HjerlHede:WindMillTemplate"],
+       "zone" : "AGRICULTURE",
+       "minSize" : [20, 20],
+       "maxSize" : [20, 20],
+       "isEntity" : true
+    },
+    "SimpleSource": {
+        "needType": "FOOD"
+    }
+}

@@ -1,0 +1,9 @@
+{
+  "Culture" : {
+    "name" : "Hjerl Hede",
+    "buildingNeedPerZone" : {"RESIDENTIAL" : 1, "COMMERCIAL" : 3},
+    "growthRate" : 300,
+    "availableBuildings" : ["Bakery", "Barn", "CoachbuilderWorkshop", "CooperHouse", "MjesingHusetSmall", "School", "Smithy", "Store", "StreetLamp", "WindMill"],
+    "residentialZones" : ["RESIDENTIAL"]
+  }
+}

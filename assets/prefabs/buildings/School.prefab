@@ -1,0 +1,10 @@
+{
+    "GenericBuilding" : {
+     "name" : "School",
+     "templateNames" : ["HjerlHede:SchoolTemplate"],
+     "zone" : "GOVERNMENTAL",
+     "minSize" : [15, 20],
+     "maxSize" : [15, 20],
+        "isEntity" : true
+    }
+}

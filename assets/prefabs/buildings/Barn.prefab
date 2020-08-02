@@ -1,0 +1,16 @@
+{
+    "GenericBuilding" : {
+     "name" : "Barn",
+     "templateNames" : ["HjerlHede:BarnTemplate", "HjerlHede:BoleBarnTemplate"],
+     "zone" : "COMMERCIAL",
+     "minSize" : [10, 20],
+     "maxSize" : [10, 25],
+     "isEntity" : true
+    },
+    "InfiniteStorage" : {
+     "inventory" : {}
+    },
+    "SimpleSource": {
+        "needType": "FOOD"
+    }
+}

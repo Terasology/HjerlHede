@@ -1,0 +1,10 @@
+{
+    "GenericBuilding" : {
+     "name" : "Smithy",
+     "templateNames" : ["HjerlHede:SmithTemplate"],
+     "zone" : "COMMERCIAL",
+     "minSize" : [15, 15],
+     "maxSize" : [15, 15],
+     "isEntity" : true
+    }
+}

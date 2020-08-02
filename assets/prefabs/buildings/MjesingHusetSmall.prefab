@@ -1,0 +1,16 @@
+{
+    "GenericBuilding" : {
+     "name" : "MjesingHuset",
+     "templateNames" : ["HjerlHede:MjesingHusetSmallTemplate"],
+     "zone" : "RESIDENTIAL",
+     "minSize" : [10, 10],
+     "maxSize" : [10, 10],
+        "isEntity" : true
+    },
+    "PotentialHome": {
+        "maxCitizens": 2
+    },
+    "SimpleSource": {
+        "needType": "REST"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "GenericBuilding" : {
+     "name" : "Store",
+     "templateNames" : ["HjerlHede:StoreTemplate"],
+     "zone" : "COMMERCIAL",
+     "minSize" : [15, 25],
+     "maxSize" : [15, 25],
+     "isEntity" : true
+    },
+    "SimpleSource": {
+        "needType": "FOOD"
+    }
+}

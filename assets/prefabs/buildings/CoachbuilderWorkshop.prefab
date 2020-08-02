@@ -1,0 +1,13 @@
+{
+    "GenericBuilding" : {
+     "name" : "CoachbuilderWorkshop",
+     "templateNames" : ["HjerlHede:CoachbuilderWorkshopTemplate"],
+     "zone" : "COMMERCIAL",
+     "minSize" : [20, 15],
+     "maxSize" : [20, 15],
+     "isEntity" : true
+    },
+    "PotentialHome": {
+        "maxCitizens": 1
+    }
+}
