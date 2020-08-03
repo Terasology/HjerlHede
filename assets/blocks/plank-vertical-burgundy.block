@@ -1,7 +1,0 @@
-{
-  "basedOn": "CoreAssets:Plank",
-  "tiles": {
-    "all": "plank-vertical-burgundy"
-  },
-  "displayName": "Plank (burgundy)"
-}
