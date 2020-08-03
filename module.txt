@@ -5,9 +5,8 @@
     "displayName": "HjerlHede",
     "description": "A build (structure) module for the Hjerl Hede outdoor museum in Denmark",
     "dependencies": [
-        { "id": "CoreAdvancedAssets", "minVersion": "1.1.0" },
-        { "id": "CoreAssets", "minVersion": "2.0.1" },
-        { "id": "Drops", "minVersion": "1.0.1" },
+        { "id": "CoreAdvancedAssets", "minVersion": "1.2.0" },
+        { "id": "CoreAssets", "minVersion": "2.2.0" },
         { "id": "Fences", "minVersion": "1.0.0" },
         { "id": "StructureTemplates", "minVersion": "1.0.0" },
         { "id": "StructuralResources", "minVersion": "2.2.0" }
