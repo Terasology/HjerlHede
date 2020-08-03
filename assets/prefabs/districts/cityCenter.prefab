@@ -2,6 +2,6 @@
     "DistrictType" : {
         "name" : "City Center",
         "color" : 74234,
-        "zones" : ["COMMERCIAL", "RESIDENTIAL"]
+        "zones" : ["COMMERCIAL", "RESIDENTIAL", "GOVERNMENTAL"]
     }
 }
