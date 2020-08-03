@@ -1,0 +1,16 @@
+{
+    "GenericBuilding" : {
+     "name" : "Bakery",
+     "templateNames" : ["HjerlHede:BakeryTemplate"],
+     "zone" : "COMMERCIAL",
+     "minSize" : [13, 13],
+     "maxSize" : [13, 13],
+     "isEntity" : true
+    },
+    "PotentialHome": {
+        "maxCitizens": 1
+    },
+    "SimpleSource": {
+        "needType": "FOOD"
+    }
+}
