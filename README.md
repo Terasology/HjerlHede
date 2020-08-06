@@ -21,7 +21,7 @@ Please comment on the issue if you decide to work on it and link your PR as soon
 | Mjesinghuset | A living house from 1770 | ![Mjesinghuset](img/HjerlHede_Mjesinghuset_Living-House.png) | http://hjerlhede.dk/da/content/mjesinghuset |
 | Skolen | A school from 1823  | ![Skolen](img/HjerlHede_Skolen_School.png) | http://hjerlhede.dk/da/content/skolen, https://arkiv.dk/vis/3665245 |
 | Smedjen | A smithy from 1700 | ![Smedjen](img/HjerlHede_Smedjen_Smithy.png) | http://hjerlhede.dk/da/content/smedjen |
-| Stubmøllen | A wind mill 1778 | ![Stubmollen](img/HjerlHede_Stubmollen_Wind-Mill.png) | http://hjerlhede.dk/da/content/stubm-llen |
+| Stubmøllen | A wind mill from 1778 | ![Stubmollen](img/HjerlHede_Stubmollen_Wind-Mill.png) | http://hjerlhede.dk/da/content/stubm-llen |
 | Vinderuphuset | A coachbuilder workshop from 1908 | ![Vinderuphuset](img/HjerlHede_Vinderuphuset_Coachbuilder-Workshop.png) | http://hjerlhede.dk/da/content/vinderuphuset |
 | Street Lamp | Just a street lamp ;) | ![Street Lamp](img/HjerlHede_Street-Lamp.png) |  |
 
